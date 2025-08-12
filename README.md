@@ -83,7 +83,7 @@ The maximum temperature achievable depends on several key factors:
   Lower emissivity → higher $T_{\text{max}}$ (less energy radiated away)
 
 ---
-## 3. Magnifying Glass: $T_{\text{max}}$ for a 10 cm Lens Focusing to 1 mm
+## 3. Sample A - Magnifying Glass: $T_{\text{max}}$ for a 10 cm Lens Focusing to 1 mm
 
 We use the Stefan–Boltzmann equilibrium equation with realistic parameters:
 
@@ -174,7 +174,7 @@ $$
 
 ---
 
-## 4. Sample: Odeillo Solar Furnace
+## 4. Sample B - Odeillo Solar Furnace
 
 We can apply the same Stefan–Boltzmann equilibrium formula to the **Odeillo Solar Furnace** to verify its claimed ~3,500 °C temperature.
 
