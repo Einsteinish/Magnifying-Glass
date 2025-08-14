@@ -128,7 +128,7 @@ $$
 Take the fourth root:
    
 $$
-T_{\text{max}} \approx (1.567 \times 10^{14})^{1/4} \approx 1{,}990 \text{K} \; (1{,}717^\circ\text{C})
+T_{\text{max}} \approx (1.567 \times 10^{14})^{1/4} \approx 1{,}990 \text{ K} \; (1{,}717^\circ\text{C})
 $$
 
 ### 3.3 Real-World Adjustments
