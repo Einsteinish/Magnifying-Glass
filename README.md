@@ -291,3 +291,9 @@ For a **10 cm lens**:
 $$
 T_{\text{max}} \approx 3{,}500^\circ\text{C} \ (\text{Odeillo}), \ \text{validated with industrial-scale parameters.}
 $$
+
+---
+
+[Watch the Youtube video here](https://youtu.be/WR_BwXdgB2U)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/WR_BwXdgB2U/0.jpg)](https://www.youtube.com/watch?v=WR_BwXdgB2U)
