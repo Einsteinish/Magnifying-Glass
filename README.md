@@ -88,7 +88,7 @@ The maximum temperature achievable depends on several key factors:
 We use the Stefan–Boltzmann equilibrium equation with realistic parameters:
 
 $$
-T_{\text{max}} = \left( \frac{\eta \, I_{\text{sun}} \, C}{\sigma \, \epsilon} \right)^{1/4}
+T_{\text{max}} = \left( \frac{\eta I_{\text{sun}} C}{\sigma \epsilon} \right)^{1/4}
 $$
 
 Where:
